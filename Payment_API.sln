@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Payment_API", "Payment_API\Payment_API.csproj", "{19F62F7D-7378-4F82-B27E-2974B3CFA704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkout", "Checkout\Checkout.csproj", "{05A20038-AD24-40FC-9D5C-8133B812433D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19F62F7D-7378-4F82-B27E-2974B3CFA704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F62F7D-7378-4F82-B27E-2974B3CFA704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F62F7D-7378-4F82-B27E-2974B3CFA704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F62F7D-7378-4F82-B27E-2974B3CFA704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05A20038-AD24-40FC-9D5C-8133B812433D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05A20038-AD24-40FC-9D5C-8133B812433D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05A20038-AD24-40FC-9D5C-8133B812433D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05A20038-AD24-40FC-9D5C-8133B812433D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446AFB86-9903-4F16-BD8C-A3D9AD4E2AF4}
+	EndGlobalSection
+EndGlobal
